@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "种类": "面粉",
+    "名称": "马来夫",
+    "规格": "大",
+    "价格": 10.0,
+    "图片地址": "https://i.postimg.cc/bwwMmtBQ/f1c3bc42b64969fe1e4055e6a78cc3d-Copy-Copy-Copy-Copy-Copy.png"
+  },
+  {
+    "id": 2,
+    "种类": "酱油",
+    "名称": "马来福",
+    "规格": "中",
+    "价格": 8.8,
+    "图片地址": "https://i.postimg.cc/bwwMmtBQ/f1c3bc42b64969fe1e4055e6a78cc3d-Copy-Copy-Copy-Copy-Copy.png"
+  },
+  {
+    "id": 3,
+    "种类": "牛奶",
+    "名称": "干球",
+    "规格": "中",
+    "价格": 6.6,
+    "图片地址": "https://gw.alicdn.com/imgextra/i3/2206909428727/O1CN01BFgH9A2EL1WyCK7wX_!!4611686018427384823-2-item_pic.png_.webp"
+  },
+  {
+    "id": 4,
+    "种类": "面粉",
+    "名称": "马来夫",
+    "规格": "中",
+    "价格": 5.06666666666667,
+    "图片地址": "https://oss.cyzone.cn/2021/0615/5bf30e79dd86abacd6cc32fd4f077604.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95"
+  },
+  {
+    "id": 5,
+    "种类": "酱油",
+    "名称": "小雨",
+    "规格": "小",
+    "价格": 3.36666666666667,
+    "图片地址": "https://oss.cyzone.cn/2021/0615/5bf30e79dd86abacd6cc32fd4f077604.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95"
+  },
+  {
+    "id": 6,
+    "种类": "牛奶",
+    "名称": "大雨",
+    "规格": "大",
+    "价格": 1.66666666666667,
+    "图片地址": "https://oss.cyzone.cn/2021/0615/5bf30e79dd86abacd6cc32fd4f077604.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95"
+  },
+  {
+    "id": 7,
+    "种类": "面粉",
+    "名称": "妈妈爹",
+    "规格": "小",
+    "价格": 7.77,
+    "图片地址": "https://img.myshopline.com/image/store/2001105907/1654672988793/903eea1479d84333a7d159eb732752e7.png?w=3240&h=3240"
+  }
+]
